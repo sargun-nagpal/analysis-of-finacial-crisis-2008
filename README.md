@@ -1,4 +1,4 @@
-# analysis-of-finacial-crisis-2008
+# analysis-of-financial-crisis-2008
 Exploratory data analysis of the Global Financial Crisis of 2008.
 
 ### Data Source (API)
